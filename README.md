@@ -2,6 +2,7 @@
 This repository contains project is focused on analyzing HR employee attrition data to cover patterns and trends in employee turnover. The analysis was performed using SQL for data cleaning and preparation, followed by creating visualizations using Tableau to present the insights.
 
 ## Tableau Visualization
+You can explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/israa.idris/viz/HRAnalyticsDashboard_17285054545820/Dashboard2), where you can use filters and dive deeper into the visuals.
 
 Below is the HR Attrition Dashboard visualized using Tableau:
 
@@ -109,6 +110,8 @@ you can see Hight Attrition by orange.
 **●** Further analysis is recommended to investigate other factors influencing attrition, such as work-life balance, and career advancement opportunities.
 
 
+### You can explore the interactive dashboard 
+on [Tableau Public](https://public.tableau.com/app/profile/israa.idris/viz/HRAnalyticsDashboard_17285054545820/Dashboard2), where you can use filters and dive deeper into the visuals.
 
 ## Data Source
 - The dataset used for this analysis was obtained from [Kaggle's HR Attrition Dataset](https://www.kaggle.com/datasets).
